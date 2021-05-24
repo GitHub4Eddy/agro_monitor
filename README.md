@@ -21,6 +21,9 @@ See: https://agromonitoring.com/dashboard/dashboard-start
 See: https://openweathermap.medium.com/dashboard-update-current-and-historical-soil-data-24422fc75c5b
 
 
+Version 0.2 (24th May 2021))
+- Changed Soil Moisture (child) device from multilevelSensor to humiditySensor with percentage presentation
+
 Version 0.1 (22 May 2021)
 - Initial version
 
