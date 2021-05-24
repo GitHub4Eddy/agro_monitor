@@ -238,7 +238,7 @@ function QuickApp:getQuickAppVariables() -- Get all variables
     self:trace("Added QuickApp variable polygon")
   end
   if interval == "" or interval == nil then
-    interval = "60" 
+    interval = "600" 
     self:setVariable("interval",interval)
     self:trace("Added QuickApp variable interval")
     interval = tonumber(interval)
